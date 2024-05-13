@@ -1,0 +1,72 @@
+@charset "ISO-8859-1";
+
+body {
+            font-family: Arial, sans-serif;
+        }
+
+        .container {
+            text-align: center;
+            margin: 50px;
+        }
+
+        .title {
+            font-size: 24px;
+            margin-bottom: 20px;
+        }
+
+        .details {
+            display: inline-block;
+            text-align: left;
+        }
+
+        .inputbox {
+            margin: 10px 0;
+        }
+
+        .inputbox .d {
+            display: block;
+            margin-bottom: 5px;
+        }
+
+        input[type="text"],
+        select,
+        textarea {
+            width: 100%;
+            padding: 10px;
+            border: 1px solid #ccc;
+            border-radius: 5px;
+            font-size: 16px;
+        }
+
+        .inquiry {
+            margin: 10px 0;
+        }
+
+        .inquiry .no {
+            display: block;
+            margin-bottom: 5px;
+        }
+
+        .button {
+            margin-top: 20px;
+        }
+
+        #sub {
+            background-color: #007BFF;
+            color: #fff;
+            padding: 10px 20px;
+            border: none;
+            border-radius: 5px;
+            font-size: 18px;
+            cursor: pointer;
+        }
+
+
+
+
+
+
+
+
+
+
